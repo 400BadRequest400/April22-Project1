@@ -1,0 +1,29 @@
+git configuration:
+git config --global user.name "github username"
+git config --global user.email "github useremail@example.com"
+
+
+
+
+
+
+push new repository to github:
+
+cd <project level>
+
+git init
+git remote add origin <github url >
+git add .
+git commit -m "message"
+git push -u origin master
+
+
+make progress
+
+git add.
+git commit -m "message"
+git push
+
+
+useful git commands:
+git status
